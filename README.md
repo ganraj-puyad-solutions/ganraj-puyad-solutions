@@ -17,50 +17,50 @@ Here are some ideas to get you started:
 # Hi, I'm Ganraj Puyad 👋 
 
 ### 🚀 Aspiring Data Engineer & Data Scientist 
-**Expected Graduation: May 2026 | B.Tech in Computer Science & Engineering**
+**B.Tech in Computer Science & Engineering | [cite_start]Expected Graduation: May 2026** [cite: 6, 7, 10]
 
-I am a data-driven problem solver specializing in building end-to-end data pipelines, predictive modeling, and business intelligence. With a robust foundation in Computer Science from **VIT** and professional certifications from **Google, IBM, and Tableau**, I bridge the gap between complex data architecture and actionable business insights.
+I am a data-driven problem solver specializing in building end-to-end data pipelines, predictive modeling, and business intelligence. [cite_start]With a robust foundation from **VIT (8.03 CGPA)** [cite: 5, 8] [cite_start]and professional certifications from **Google, IBM, and Tableau**[cite: 40, 41, 42], I bridge the gap between complex data architecture and actionable business insights.
 
 ---
 
 ## 🛠 Technical Stack
 
-* [cite_start]**Languages:** Python (Pandas, NumPy, Scikit-learn, SciPy, Statsmodels), SQL (Advanced Querying, CTEs, Window Functions) [cite: 13, 14, 25, 26]
-* [cite_start]**Data Engineering & Analytics:** ETL Workflows, Data Cleaning, Hypothesis Testing, Statistical Analysis [cite: 13, 33]
-* [cite_start]**Machine Learning:** Regression (Linear/Logistic), Decision Trees, Random Forest, Supervised & Unsupervised Learning [cite: 15, 32]
-* [cite_start]**Tools & Platforms:** AWS, Tableau, Jupyter, Google Colab, SQLite3, GitHub [cite: 13, 29]
+* **Languages:** Python (Pandas, NumPy, Scikit-learn, SciPy, Statsmodels), SQL (Advanced Querying, CTEs, Window Functions) [cite: 13, 14, 25, 26]
+* [cite_start]**Data Science & Analytics:** Data Cleaning, Hypothesis Testing, Statistical Analysis, ETL Workflows [cite: 13, 25, 33]
+* [cite_start]**Machine Learning:** Linear/Logistic Regression, Decision Trees, Random Forest [cite: 15, 32]
+* **Tools & Platforms:** Tableau, AWS, Jupyter, Google Colab, SQLite3, GitHub [cite: 13, 29]
 
 ---
 
 ## 🏆 Professional Certifications
-* [cite_start]**IBM:** Data Science & Data Analyst Professional Certificates [cite: 41]
 * [cite_start]**Google:** Advanced Data Analytics & Business Intelligence Professional Certificates [cite: 40]
-* [cite_start]**Tableau:** Business Intelligence Analyst Professional Certificate [cite: 42]
+* [cite_start]**IBM:** Data Science & Data Analyst Professional Certificates [cite: 41]
+* **Tableau:** Business Intelligence Analyst Professional Certificate [cite: 42]
 
 ---
 
 ## 📊 Featured Projects
 
 ### 🏎️ [Salifort Motors Employee Retention](https://github.com/g-puyad-patil)
-* [cite_start]**Goal:** Predict employee attrition using machine learning to reduce turnover costs. [cite: 17, 21]
-* [cite_start]**Outcome:** Developed a Tree-Based model with **91% Recall** and **87% Precision**. [cite: 20]
-* [cite_start]**Tech:** Python, Scikit-learn, Pandas, PACE strategy. [cite: 19]
+* [cite_start]**Goal:** Predict employee attrition to reduce turnover costs using the PACE strategy[cite: 17, 21, 22].
+* [cite_start]**Outcome:** Developed a Tree-Based ML model achieving **91% Recall** and **87% Precision**, identifying the top 3 risk factors for attrition[cite: 20, 21].
+* **Impact:** Provided insights estimated to reduce potential annual turnover costs by **$500,000**[cite: 21].
 
 ### 🛒 [TechMart Operational Analysis](https://github.com/g-puyad-patil)
-* [cite_start]**Goal:** Optimize inventory and sales performance across North America and Europe. [cite: 23, 27]
-* [cite_start]**Key Action:** Optimized complex SQL queries using **CTEs and Window Functions** to integrate 4 massive retail datasets. [cite: 25, 26]
-* [cite_start]**Tech:** SQL, Python, Excel. [cite: 25]
+* [cite_start]**Goal:** Optimize inventory and sales performance across North America and Europe[cite: 23, 27].
+* [cite_start]**Key Action:** Integrated 4 massive retail datasets and optimized complex SQL queries using **CTEs and Window Functions**[cite: 25, 26].
+* **Impact:** Translated technical findings into actionable insights for leadership to optimize inventory levels[cite: 27].
 
 ---
 
 ## 🤝 Community & Impact
-* [cite_start]**Peer Contributor:** Active in technical data communities, sharing reusable SQL snippets and Python scripts for automation[cite: 35, 37].
-* [cite_start]**Mentor:** Assist peers in debugging Pandas code and optimizing Tableau visualization performance[cite: 38].
+* [cite_start]**Online Peer Contributor:** Sharing reusable SQL snippets and Python scripts to automate data cleaning tasks[cite: 35, 37].
+* [cite_start]**Mentor:** Assisting peers in debugging Pandas code and optimizing Tableau visualization performance[cite: 38].
 
 ---
 
 ## 📫 Let's Connect!
 * [cite_start]**LinkedIn:** [linkedin.com/in/gspibm/](https://linkedin.com/in/gspibm/) [cite: 2]
 * [cite_start]**Tableau Portfolio:** [Public Profile](https://public.tableau.com/app/profile/ganraj.puyad) [cite: 3]
-* [cite_start]**Email:** ganraj.puyad.work@gmail.com [cite: 2]
+* **Email:** ganraj.puyad.work@gmail.com [cite: 2]
 * [cite_start]**Location:** India 🇮🇳 [cite: 9]
