@@ -60,7 +60,7 @@ I am a data-driven problem solver specializing in building end-to-end data pipel
 ---
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/gspibm/](https://linkedin.com/in/ganraj-puyad-data/)
+* **LinkedIn:** [linkedin.com/in/ganraj-puyad-data/](https://linkedin.com/in/ganraj-puyad-data/)
 * **Tableau Portfolio:** [Public Profile](https://public.tableau.com/app/profile/ganraj.puyad)
 * **Email:** ganraj.puyad.work@gmail.com
 * **Location:** India 🇮🇳
