@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi, I'm Ganraj Puyad 👋 
 
 ### 🚀 Aspiring Data Engineer & Data Scientist 
-**B.Tech in Computer Science & Engineering | Expected Graduation: May 2026**
+**B.Tech in Computer Science & Engineering | Expected Graduation: April 2026**
 
 I am a data-driven problem solver specializing in building end-to-end data pipelines, predictive modeling, and business intelligence. With a robust foundation from **VIT (8.03 CGPA)** and professional certifications from **Google, IBM, and Tableau**, I bridge the gap between complex data architecture and actionable business insights.
 
