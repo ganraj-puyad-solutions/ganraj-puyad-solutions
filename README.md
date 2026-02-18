@@ -37,6 +37,6 @@ Highly motivated Data Engineering enthusiast with a strong focus on building aut
 ---
 
 ### 💬 Let's Connect!
-- 💼 **LinkedIn**: [[Your LinkedIn URL]](https://www.linkedin.com/in/ganraj-puyad-data/)
+- 💼 **LinkedIn**: [linkedin.com/in/ganraj-puyad-data](https://www.linkedin.com/in/ganraj-puyad-data/)
 
 *"Data engineering is the cake; data science is the icing. I build the cake."*
